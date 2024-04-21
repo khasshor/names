@@ -1,0 +1,46 @@
+{
+  "name": "khasshor-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khasshor/names.git"
+  },
+  "license": "ISC", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+	"khasshor": "^1.0.0",
+	"linow340": "^1.0.0",
+	"linow340-one": "^1.0.0",
+	"wp646233": "^1.0.0",
+	"wp646233-one": "^1.0.0",
+	"guzibiji": "^1.0.0",
+	"br757268": "^1.0.0",
+	"br757268-one": "^1.0.0",
+	"hoehna92": "^1.0.0",
+	"hoehna92-one": "^1.0.0",
+	"bert5338": "^1.0.0",
+	"bert5338-one": "^1.0.0",
+	"mpuma823": "^1.0.0",
+	"mojvca": "^1.0.0",
+	"mojvca-one": "^1.0.0",
+	"dtim7462": "^1.0.0",
+	"dtim7462-one": "^1.0.0",
+	"lmdghh4": "^1.0.0",
+	"lmdghh4-one": "^1.0.0",
+	"eluiced": "^1.0.0",
+	"eluiced-one": "^1.0.0",
+	"mpuma823": "^1.0.0",
+	"mpuma823-ghddd55": "^1.0.0",
+	"ixoap87": "^1.0.0",
+	"ixoap87-ones": "^1.0.0",
+	"jemsj184": "^1.0.0",
+	"oklsss-jams": "^1.0.0",
+	"web3": "^4.5.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
